@@ -19,13 +19,13 @@ To develop an end-to-end web application capable of displaying the current job o
 - HARIHARAN T
 
 ## 🔗 LINKS
-- MALISHWARAN M    [ASSIGNMENT]() 
-- CHANDRAMOHAN R   [ASSIGNMENT]()
-- ELIZA JOHN A     [ASSIGNMENT]()
-- HARIHARAN T      [ASSIGNMENT]()
+- MALISHWARAN M    [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-16735-1659621288/tree/main/Assignments/Team%20Leader) 
+- CHANDRAMOHAN R   [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-16735-1659621288/tree/main/Assignments/Team%20Member%201)
+- ELIZA JOHN A     [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-16735-1659621288/tree/main/Assignments/Team%20Member%202)
+- HARIHARAN T      [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-16735-1659621288/tree/main/Assignments/Team%20Member%203)
 
 
 ## EMPATHY MAP CANVAS :
 
-   - [EMPATHY MAP LINK]()
+   - [EMPATHY MAP LINK](https://github.com/IBM-EPBL/IBM-Project-16735-1659621288/blob/main/Project%20Design%20%26%20Planning/Empathy%20Map%20Canvas.pdf)
 
